@@ -1,3 +1,12 @@
+Name: Jaideep Singh
+
+URN: 2302721
+
+Program: Industrial Training
+
+Duration: 6 Months
+
+Domain: Cyber Security
 | **Week** | **Topic / Area**          | **Tools Used**     | **Work Done / Learning Outcome**                                                            |
 | -------- | ------------------------- | ------------------ | ------------------------------------------------------------------------------------------- |
 | Week 1   | Cyber Security Basics     | —                  | Introduction to cyber security, CIA triad, types of cyber attacks, ethical hacking overview |
