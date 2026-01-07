@@ -6,6 +6,8 @@ Program: Industrial Training
 
 Duration: 6 Months
 
+Date of Training: 23-07-2025 to 15-12-2025 at CYBERCORE Technologies Mohali
+
 Domain: Cyber Security
 | **Week** | **Topic / Area**          | **Tools Used**     | **Work Done / Learning Outcome**                                                            |
 | -------- | ------------------------- | ------------------ | ------------------------------------------------------------------------------------------- |
